@@ -3,5 +3,7 @@
 A MineSweap game which is made by C language
 
 ![界面图片](game.png)
+![界面图片](main.png)
+![界面图片](gintroduction.png)
 
 bilibili: https://www.bilibili.com/video/BV1Z44y1v7JB/?spm_id_from=333.999.0.0
