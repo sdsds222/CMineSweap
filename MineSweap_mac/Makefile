@@ -1,6 +1,6 @@
 # 编译器和编译选项  
 CC=gcc  
-CFLAGS=-w
+CFLAGS=-w  
 
 # 编译目标文件生成可执行文件test  
 minesweap: main.o Utils.o
